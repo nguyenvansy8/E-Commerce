@@ -10,8 +10,9 @@ const Container = styled.div`
 
 `
 
+//Change font-size 40-35
 const Title = styled.div`
-    font-size: 40px;
+    font-size: 35px;
     font-weight: bold;
     margin: 20px;
     display: flex;

@@ -10,8 +10,9 @@ import RemoveIcon from '@mui/icons-material/Remove';
 const Container = styled.div`
 `
 
+// Change padding 50-45
 const Wrapper = styled.div`
-    padding: 50px;
+    padding: 45px;
     display: flex;
 `
 

@@ -217,6 +217,11 @@ const Cart = () => {
           </Info>
           <Summary>
             <SummaryTitle>ORDER SUMMARY</SummaryTitle>
+            <SummaryTitle>ORDER SUMMARY1</SummaryTitle>
+            <SummaryTitle>ORDER SUMMARY2</SummaryTitle>
+            <SummaryTitle>ORDER SUMMARY3</SummaryTitle>
+            <SummaryTitle>ORDER SUMMARY4</SummaryTitle>
+            <SummaryTitle>ORDER SUMMARY5</SummaryTitle>
             <SummaryItem>
               <SummaryItemText>Subtotal</SummaryItemText>
               <SummaryItemPrice>$ 80</SummaryItemPrice>
