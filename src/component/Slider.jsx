@@ -68,10 +68,10 @@ const Desc = styled.p`
     font-weight: 500;
     letter-spacing: 3px   
 `
-
+// Change padding 10-12 and font-size 20-10
 const Button = styled.button`
-    padding: 10px;
-    font-size: 20px;
+    padding: 12px;
+    font-size: 10px;
     background-color: teal;
     cursor: pointer;
     border: none;

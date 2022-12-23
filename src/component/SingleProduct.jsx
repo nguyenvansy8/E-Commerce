@@ -4,10 +4,10 @@ import ShoppingCartOutlinedIcon from '@mui/icons-material/ShoppingCartOutlined';
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import FavoriteBorderOutlinedIcon from '@mui/icons-material/FavoriteBorderOutlined';
 
-
+//change width 100-90 and height 100-90
 const Infor = styled.div`
-    width: 100%;
-    height: 100%;
+    width: 90%;
+    height: 90%;
     position: absolute;
     top: 0;
     left: 0;
